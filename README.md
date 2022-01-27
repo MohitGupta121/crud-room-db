@@ -7,5 +7,8 @@ CRUD operation in ROOM DataBase Android
 CRUD operations on Room Db android with Recyclerview.
 <br>
 
-1. Create database in room db
+1. Create database in room db 
 2. Read data in room using Recyclerview
+3. Update
+4. Delete
+
